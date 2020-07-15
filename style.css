@@ -9,6 +9,10 @@ body{
     background: #f8f8f8;
 }
 
+.main{
+    text-align: center;
+}
+
 .input{
     text-align: center;
     margin: 100px auto;
