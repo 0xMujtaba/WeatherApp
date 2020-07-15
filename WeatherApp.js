@@ -15,8 +15,8 @@ button.addEventListener('click', function(){
         tempValue = tempValue + '° Celcius';
 
         name.innerHTML = nameValue;
-        temp.innerHTML = tempValue;
-        desc.innerHTML = descValue;
+        temp.innerHTML = "Temp - " + tempValue;
+        desc.innerHTML = "Desc - " + descValue;
     })
 
 
